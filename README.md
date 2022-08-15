@@ -3,7 +3,7 @@
 ## Requirements
 
 * [Arduino IDE 1.8.19](https://www.arduino.cc/en/software)
-* ESP32 board
+* [ESP32 board](https://www.espressif.com/en/products/devkits)
 
 
 ## Installation
