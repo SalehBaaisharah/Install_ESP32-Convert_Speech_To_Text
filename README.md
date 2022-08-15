@@ -1,5 +1,6 @@
 # Install ESP32 Using Arduino IDE
-
+َ
+َ
 ## Requirements
 
 * [Arduino IDE 1.8.19](https://www.arduino.cc/en/software)
@@ -27,10 +28,17 @@ open `Tools` and then point on `port` then select the port you use
 Test your ESP32 by using blink from `Flie` `Examples` `basics`
 
 
+ِ
 
 
 
-#Convert Arabic Speech To Text
+ِ
+
+
+ِ
+
+
+# Convert Arabic Speech To Text
 
 
 ## Requirements
