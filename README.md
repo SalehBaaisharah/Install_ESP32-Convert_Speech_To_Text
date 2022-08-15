@@ -8,13 +8,12 @@
 
 # Installation
 
-first download and install CP210x VCP Drivers from 
-(https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
+first download and install 
+[CP210x VCP Drivers](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
 
 connect ESP32 with the port of your device 
 
-install Arduino IDE from
-[https://www.arduino.cc/en/software]
+install [Arduino IDE][https://www.arduino.cc/en/software]
 
 to install esp32 using Arduino IDE follow the guides from
 https://github.com/espressif/arduino-esp32/blob/master/docs/source/installing.rst
