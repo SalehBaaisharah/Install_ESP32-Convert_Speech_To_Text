@@ -37,5 +37,18 @@ Test your ESP32 by using blink from `Flie` `Examples` `basics`
 
 * Pycharm community Edition 2020.2.3
 
+## Installation 
+
+In `Terminal` Libraries to add 
+
+```pip install speechrecognition```
+
+```pip install gtts```
+
+```pip install playsound```
+
+```pip install PyAudio```
+
+
 
 
